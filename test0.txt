@@ -2,3 +2,5 @@ The File is a demo,
 To Find out what is git.
 
 add a new line
+
+测试git的管理对象是修改还是文件

@@ -13,4 +13,8 @@ add a new line
 准备“解决”冲突
 其以实“可以”多让他检查几行
 对不对呀
+<<<<<<< HEAD
 HelloWorld!
+=======
+Helo World!
+>>>>>>> feat1

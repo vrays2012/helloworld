@@ -1,4 +1,5 @@
 The File is a demo,
+abc
 To Find out what is git.
 
 add a new line
@@ -9,5 +10,5 @@ add a new line
 
 
 准备“解决”冲突
-其实“可以”多让他检查几行
+其以实“可以”多让他检查几行
 对不对呀

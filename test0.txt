@@ -4,3 +4,5 @@ To Find out what is git.
 add a new line
 
 测试git的管理对象是修改还是文件
+
+第二次修改这个文件

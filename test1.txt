@@ -3,3 +3,5 @@ test1：To Find out what is git.
 
 测试一下对中文的支持怎么样？
 
+
+fix issue-101
